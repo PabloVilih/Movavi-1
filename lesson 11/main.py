@@ -1,1 +1,2 @@
-print("2+2=5")
+import requests as re
+response = re.get(url="")
