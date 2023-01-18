@@ -61,3 +61,23 @@ while True:
         print(f"{p2Name} сообщает, что в его коробке {p1Box}")
     else:
         print(f"{p2Name} сообщает что в его коробке {p2Box}")
+
+    #Обмен
+    change = input("Тебе нужно решить, меняетесь ли вы коробками\n"
+                   "Д(меняться) или Н(не меняться) >>>").upper()
+    if change == "Д":
+        p1Box, p2Box = p2Box, p1Box  #Меняем содержимое коробок
+        input(f"{p1Name} закрывает глаза,  (Enter...)")
+
+        if p2Box == "МОРКОВКА":
+            box2 = box_carrot.format(COLOR2.center(13)).split("\n")
+        else:
+            box2 =  box_empty.format(COLOR2.center(13)).split("\n")
+    else:
+        break
+print("========================= Результаты: ============================")
+print(generate_boxes(p1Box, p2Box))
+if p1Box == "МОРКОВКА":
+    print(p1Name, "Победил")
+else:
+    print(p2Name, "Победил")
