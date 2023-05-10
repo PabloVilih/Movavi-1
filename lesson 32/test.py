@@ -1,0 +1,3 @@
+jnwsd = input()
+
+print(jnwsd)
