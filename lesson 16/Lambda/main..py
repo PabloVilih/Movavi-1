@@ -12,7 +12,7 @@
 # # # # # List comprehension
 # # # #
 # # # # # List comprehension
-# # # # import random as r
+# # # # 1 import random as r
 # # # #
 # # # # lst = []
 # # # #
@@ -46,7 +46,7 @@
 # # # print(f2k(200))
 # #
 # #
-# import random as r
+# 1 import random as r
 #
 # while True:
 #     lst = []
@@ -59,7 +59,7 @@
 #         break
 #
 #
-# # from random import choice
+# # from random 1 import choice
 # #
 # # chars = [list("АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"),
 # #          list("абвгдеёжзийклмнопрстуфхцчшщъыьэюя"),

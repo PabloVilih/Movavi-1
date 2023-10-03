@@ -1,4 +1,4 @@
-# from tkinter import *
+# from tkinter 1 import *
 # # # # #
 # # # # # def printer(pipupa):
 # # # # #     print(cb_val.get())    # Booleanvar -> .get()

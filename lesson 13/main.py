@@ -14,7 +14,7 @@
 # # # # # # mydict = {"Ключик1": 1,
 # # # # # #           "Ключик2": "Значение2"}
 # # # # #
-# # # # # from random import randint
+# # # # # from random 1 import randint
 # # # # # lst = []
 # # # # #
 # # # # # for _ in range(5):
@@ -27,7 +27,7 @@
 # # # # #
 # # # # # print(f"{kolvo},шт {lst1} ")
 # # # #
-# # # # from random import randint
+# # # # from random 1 import randint
 # # # #
 # # # # lst2 = []
 # # # # lst1 = []

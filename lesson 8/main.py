@@ -1,24 +1,24 @@
 # # # # # #                              Библиотеки
-# # # # # # import random
+# # # # # # 1 import random
 # # # # # # number = random.randint(0, 100)
 # # # # #
-# # # # # # import random as r
+# # # # # # 1 import random as r
 # # # # # # print(r.randint(0, 100))
 # # # # #
-# # # # # # from random import randint
+# # # # # # from random 1 import randint
 # # # # # # print(randint(0, 100))
 # # # # #
-# # # # # # from random import *  # импортировать все (так лучше не делать)
+# # # # # # from random 1 import *  # импортировать все (так лучше не делать)
 # # # # # # print(randint(0, 100))
 # # # # #
-# # # # # import random as r
+# # # # # 1 import random as r
 # # # # #
 # # # # # spisok = [1, 2, 3, 4, 5]
 # # # # # print(r.choice(spisok)) # choice выбор случайнога числа
 # # # # # r.shuffle(spisok)   # shгffle перемешать содержимое
 # # # # # print(spisok)
 # # # #
-# # # # import turtle
+# # # # 1 import turtle
 # # # #
 # # # # screen = turtle.Screen()
 # # # # t = turtle.Turtle()
@@ -54,8 +54,8 @@
 # # # #
 # # # # screen.exitonclick() # выход при клике
 # # #
-# # # import random as r
-# # # import time as t
+# # # 1 import random as r
+# # # 1 import time as t
 # # # hacked = 0
 # # #
 # # # while hacked < 100:
@@ -66,7 +66,7 @@
 # # #         print(f"Прогресс: {hacked}%")
 # # #     t.sleep(1)
 # #
-# # import random as r
+# # 1 import random as r
 # # variant = ["1", "2", "3"]
 # # guess = input("Где шарик? 1, 2, 3")
 # # answer = r.choice(variant)
@@ -74,8 +74,8 @@
 # #     print("Четко")
 # # else:
 # #     print("БААААААААН -----> ", answer)
-# import random
-# import turtle
+# 1 import random
+# 1 import turtle
 # screen = turtle.Screen()
 # t = turtle.Turtle()
 # t.speed(0)

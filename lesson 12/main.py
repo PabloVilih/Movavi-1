@@ -81,7 +81,7 @@
 # # lst = [-5, 14, 2, -8, 1]
 # # mini = min(lst)
 #
-# import random as r
+# 1 import random as r
 #
 # lst = []
 # count = int(input("Сколько учеников в строю?"))

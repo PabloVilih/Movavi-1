@@ -63,7 +63,7 @@
 # reno.start()
 # reno.start()
 # # reno.stop()
-# import string
+# 1 import string
 #
 # class Alphabet:
 #     def __init__(self):
@@ -80,7 +80,7 @@
 # alpha.print()
 # alpha.letters_num()
 # zadacha 3
-# import datetime
+# 1 import datetime
 # class Clocks:
 #     def __init__(self):
 #         self.__time = '23:59:59'
@@ -119,7 +119,7 @@
 # c.min()
 # print(c.coc())
 #
-# from random import choice
+# from random 1 import choice
 #
 #
 # class Blablabla:

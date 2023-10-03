@@ -1,4 +1,4 @@
-# # # # import json
+# # # # 1 import json
 # # # #
 # # # # f = open("data.json", "w")
 # # # # text = [False, None, 3, 3.13, (1, 2, 3)]
@@ -19,7 +19,7 @@
 # #                                                                                                                                                                                             #     0|0
 # #
 # #
-# import json
+# 1 import json
 #
 #
 # f = open("file.txt", "r", encoding="utf-8")
